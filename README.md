@@ -1,4 +1,4 @@
-# Netpractice
+# Netpractice 🌐
 
 ## Overview
 
@@ -48,13 +48,11 @@ firefox index.html
 
 Right-click on `index.html` → **Open with** → select your browser.
 
-Once opened, the Netpractice interface will load.
-
 ### Modes of Operation
 
 Once opened, the Netpractice interface will load. There are two modes available:
 
-<img src="img/usage/interfaz.png" width="300" height="150">
+<img src="img/Usage/interfaz.png" width="150" height="200">
 
 #### Training Mode
 
@@ -71,7 +69,7 @@ Training mode allows practice using a **personalized configuration** associated 
 
 The objective is to ensure correct communication between all devices according to the given topology.
 
-<img src="img/usage/demo.png" width="300" height="150">
+<img src="img/Usage/demo.png" width="500" height="450">
 
 After completing a level:
 
@@ -79,7 +77,7 @@ After completing a level:
 * **Get my config** exports the configuration as a **JSON file**.
 * Successfully validating a level unlocks the **next level**.
 
-<img src="img/usage/Options.png" width="300" height="150">
+<img src="img/Usage/Options.png" width="300" height="70">
 
 
 At the bottom of the interface, **packet flow logs** display how IP packets traverse the network. These logs are essential for debugging issues such as:
@@ -88,7 +86,7 @@ At the bottom of the interface, **packet flow logs** display how IP packets trav
 * Invalid IP addresses
 * Wrong subnet masks
 
-<img src="img/usage/login.png" width="300" height="150">
+<img src="img/Usage/login.png" width="250" height="250">
 
 #### Evaluation Mode
 
@@ -99,7 +97,7 @@ Evaluation mode generates a **randomized network configuration**, intended for a
 
 ---
 
-## Technical Concepts
+## TCP/IP Concepts Covered
 
 The project relies on the following networking concepts:
 
@@ -117,6 +115,59 @@ The project relies on the following networking concepts:
 
 ---
 
+## Levels
+
+<details>
+<summary>Level 1</summary>
+Description and objectives for Level 1.
+</details>
+
+<details>
+<summary>Level 2</summary>
+Description and objectives for Level 2.
+</details>
+
+<details>
+<summary>Level 3</summary>
+Description and objectives for Level 3.
+</details>
+
+<details>
+<summary>Level 4</summary>
+Description and objectives for Level 4.
+</details>
+
+<details>
+<summary>Level 5</summary>
+Description and objectives for Level 5.
+</details>
+
+<details>
+<summary>Level 6</summary>
+Description and objectives for Level 6.
+</details>
+
+<details>
+<summary>Level 7</summary>
+Description and objectives for Level 7.
+</details>
+
+<details>
+<summary>Level 8</summary>
+Description and objectives for Level 8.
+</details>
+
+<details>
+<summary>Level 9</summary>
+Description and objectives for Level 9.
+</details>
+
+<details>
+<summary>Level 10</summary>
+Description and objectives for Level 10.
+</details>
+
+---
 ## Resources
 
 * OSI Model documentation
