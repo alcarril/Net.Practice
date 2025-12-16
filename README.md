@@ -761,21 +761,24 @@ The critical aspects are **correct address allocation**, **WAN separation**, and
 ## Resources ℹ️
 
 <a href="https://broken-snowdrop-f03.notion.site/Modelo-OSI-2beb80eb3d88805b8b49d628f2e7cfe1?source=copy_link">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="30" style="vertical-align:middle;"/>
-</a> 
-Self-created Notion page explaining OSI model layer by layer, with exercises and backend config for LINUX.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20" height="20" style="vertical-align:middle;"/>
+</a>  
+
+Self-created Notion page explaining the **OSI model layer by layer**, with exercises and **backend configuration for LINUX**.
+
 
 <a href="https://broken-snowdrop-f03.notion.site/Redes-y-protocolos-de-comunicacion-2beb80eb3d88806d83f0ccc5546b77fa?source=copy_link">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="30" style="vertical-align:middle;"/>
-</a> 
-Self-created Notion page with info about Networks and Communication Protocols.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="20" height="20" style="vertical-align:middle;"/>
+</a>  
+
+Self-created Notion page with info about **Networks and Communication Protocols**.
+
 
 <a href="https://www.youtube.com/playlist?list=PLbcS-eIZbbxWSCANJXiXj_5zBriR81m54">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" style="vertical-align:middle;"/>
-</a> 
-Curated YouTube playlist covering Networking concepts.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="20" height="20" style="vertical-align:middle;"/>
+</a>  
 
-🌐 [OSI Model Explanation (GeeksforGeeks)](https://www.geeksforgeeks.org/computer-networks/open-systems-interconnection-model-osi/) - Article explaining OSI Model in depth.
+Curated **YouTube playlist** covering networking concepts.
 
 ## Author 🧑🏼‍💻
 
